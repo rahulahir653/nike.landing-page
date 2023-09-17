@@ -1,0 +1,109 @@
+.nav-item {
+     padding-right: 100px;
+     margin-left: 30px;
+
+}
+
+.cart {
+     width: 52px;
+     height: 46px;
+     flex-shrink: 0;
+     border-radius: 23px;
+     background: #FDA079;
+}
+
+.nav a img {
+     margin-left: 10px;
+}
+
+.navbar {
+     width: 800px;
+     height: 85px;
+     flex-shrink: 0;
+}
+
+.nav-link {
+     color: black;
+}
+
+.nav-link:hover {
+     color: red;
+     transition: ease-in-out;
+
+}
+
+
+
+.nike {
+     color: #000;
+     font-family: Poppins;
+     font-size: 4.59294rem;
+     font-style: normal;
+     font-weight: bold;
+     line-height: normal;
+     text-transform: capitalize;
+}
+
+span {
+     color: #FC7E3C;
+     font-family: Poppins;
+     font-size: 5.5115rem;
+     font-style: normal;
+     font-weight: 300;
+     line-height: normal;
+     letter-spacing: 0.16538rem;
+     text-transform: capitalize;
+}
+
+p {
+     width: 34.375rem;
+     height: 15.65881rem;
+     flex-shrink: 0;
+     color: #000;
+     font-family: Roboto;
+     font-size: 1.37788rem;
+     font-style: normal;
+     font-weight: 500;
+     line-height: 194.5%;
+     letter-spacing: 0.04131rem;
+     text-transform: capitalize;
+}
+
+#price {
+     width: 14.5625rem;
+     height: 5.875rem;
+     flex-shrink: 0;
+     color: #3E3E3E;
+     font-family: Poppins;
+     font-size: 4.4375rem;
+     font-style: normal;
+     font-weight: 300;
+     line-height: normal;
+     letter-spacing: 0.13313rem;
+     text-transform: capitalize;
+}
+
+.btn {
+     border-radius: 1.6875rem 1.75rem 1.6875rem 1.6875rem;
+     background: #E6E6E6;
+     box-shadow: 7px 4px 27px 2px rgba(0, 0, 0, 0.25);
+     color: #3E3E3E;
+     margin-bottom: 25px;
+}
+
+
+.photo {
+     width: 600px;
+     height: 800px;
+     flex-shrink: 0;
+     margin-left: -60px;
+     margin-top: -70px;
+
+     background-size: cover;
+     background-position: center;
+
+}
+
+.last {
+     margin-right: -4px;
+}
